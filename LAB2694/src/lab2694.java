@@ -137,3 +137,15 @@
 	    }
 	}
 
+	
+/**
+ * Question 3:
+ * The running times are included in the output.
+ * The interpolation search algorithm had a significantly shorter execution time compared to the linear search algorithm. 
+ * This is likely because the interpolation search algorithm is more efficient in finding the search key in a sorted array.
+ * 
+ * Question 4:
+ * The improved running time is included in the output.
+ * The improved linear search has an early termination condition, avoiding unnecessary iterations once an element greater than the search key is encountered. 
+ * This reduces the overall number of comparisons and improves the running time of the linear search algorithm significantly.
+**/
